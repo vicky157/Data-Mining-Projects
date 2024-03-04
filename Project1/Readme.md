@@ -1,7 +1,3 @@
-# Project Name
-
-## Project Description
-Provide a brief description of what your project does and its purpose. Explain the significance of the two datasets and how the different machine learning algorithms apply to them.
 
 ## Prerequisites
 Before running the code, ensure you have Python 3 installed on your system. You can download Python 3 from [the official Python website](https://www.python.org/downloads/).
