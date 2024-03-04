@@ -1,1 +1,1 @@
-**Navigate the folders for respective project
+Navigate the folders for respective project
