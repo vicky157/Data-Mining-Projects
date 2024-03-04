@@ -1,5 +1,3 @@
-
-```markdown
 # Project Name
 
 ## Project Description
@@ -43,5 +41,3 @@ Replace `adaboost.py` with the name of the script you wish to run (e.g., `decisi
 
 ## Support
 For any questions or issues, please open an issue on the project's GitHub repository or contact the project maintainer directly.
-```
-
